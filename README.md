@@ -24,17 +24,10 @@ Susun atur menggunakan **sidebar** (menu navigasi + pemilih mood) dan
 
 ## Cara Menjalankan
 
-1. Pasang library yang diperlukan:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. Jalankan aplikasi:
-
+ Jalankan aplikasi:
    ```bash
    streamlit run app.py
    ```
 
-3. Aplikasi akan terbuka secara automatik di pelayar web pada alamat
+ Aplikasi akan terbuka secara automatik di pelayar web pada alamat
    `http://localhost:8501`.
